@@ -10,5 +10,5 @@ Do you want to say me something or tell me an interesting story that I will writ
 
 Great!
 
-Message ➺ @Telegram
+Message ➺ 
 
